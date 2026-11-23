@@ -1,0 +1,1 @@
+date_utc,gpu,model,quantization,concurrency,sentences,micro_f1,output_tokens_per_sec,p50_latency_s,p95_latency_s,wall_seconds
